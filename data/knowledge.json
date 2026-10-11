@@ -1,0 +1,65 @@
+{
+  "rules": [
+    {
+      "title": "食物大逃殺規則",
+      "content": "食物大逃殺是一個群體互動遊戲，玩家需在有限時間內完成任務、社群互動與角色發展；DM 可安排挑戰與劇情。"
+    },
+    {
+      "title": "死亡高考規則",
+      "content": "死亡高考是考生需在高壓設定中完成任務與生存挑戰，重點在於選擇、判斷與角色互動。"
+    },
+    {
+      "title": "角色創角",
+      "content": "角色創角可依據輸入資料、設定與世界觀建立角色背景；若 DM 還沒在場，可先準備基礎設定並再與群組討論。"
+    }
+  ],
+  "characters": [
+    {
+      "name": "芭比兔",
+      "role": "角色扮演角色",
+      "details": "擅長互動與劇情帶動，適合社群型玩家。"
+    },
+    {
+      "name": "阿記",
+      "role": "成員角色",
+      "details": "偏向觀察與策略，適合高難度任務。"
+    },
+    {
+      "name": "萌希",
+      "role": "AI 助手",
+      "details": "負責提供遊戲資訊、連結與活動說明。"
+    }
+  ],
+  "works": [
+    {
+      "title": "蕉園小說網",
+      "type": "小說平台",
+      "url": "https://www.penana.com/user/172624",
+      "details": "作者的 Penana 平台首頁，提供小說與作品展示。"
+    },
+    {
+      "title": "YouTube 頻道",
+      "type": "影片 / 音樂",
+      "url": "https://youtube.com/@meng-tian-jun?si=bCnhL-bSGJHSf6Mp",
+      "details": "作者的原創音樂與影片作品。"
+    },
+    {
+      "title": "Portaly 個人專網",
+      "type": "個人專網",
+      "url": "https://portaly.cc/meng_clan",
+      "details": "萊姆與作品相關資訊的官方專網。"
+    }
+  ],
+  "links": [
+    {
+      "title": "LINE 社群",
+      "url": "https://line.me/ti/g2/4fujUbXNH8VVA8AuZq3OIqVOETSLm9s-75uhKA",
+      "details": "加入官方社群與大家一起同樂。"
+    },
+    {
+      "title": "16 型人格測驗",
+      "url": "https://forms.gle/oJSmsyTSnAG9jUS3A",
+      "details": "語言漂移指數（Process Me·α 16 型人格測驗）"
+    }
+  ]
+}
